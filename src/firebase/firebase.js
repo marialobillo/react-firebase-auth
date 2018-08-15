@@ -1,4 +1,4 @@
-import firebase form 'firebase';
+import firebase from 'firebase';
 import 'firebase/auth';
 
 const prodConfig = {
